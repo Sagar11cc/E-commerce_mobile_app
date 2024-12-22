@@ -1,16 +1,21 @@
-# ecommerce_mobile_app
+# Flutter E-Commerce App UI Design 
 
-A new Flutter project.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Responsive Design**: Adapts to various screen sizes and orientations.
+- **Modern UI Components**: Beautiful and intuitive design elements tailored for e-commerce.
+- **Interactive Elements**: Buttons, cards, and lists optimized for user engagement.
+- **Custom Widgets**: Reusable components for clean and maintainable code.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Recipe 
+![Recipe ](Screenshot/1.png)
+
+### Recipe D
+![Recipe ](Screenshot/2.png)
+
